@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **LLM Chatbot**
+- 🔭 I’m currently working on **Image captioning Generator**
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **Transformers**
 
-- 💬 Ask me about **Data Science , Deep Learning**
+- 💬 Ask me about **Data Science , Deep Learning , Gen AI , Classical MAchine Learning**
 
 - 📫 How to reach me **Harshitkumar3601@gmail.com**
 
